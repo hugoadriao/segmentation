@@ -761,3 +761,5 @@ knitr::include_graphics("assets/tableau_public.png")
 # Considerações Finais
 - Caso ocorra algum problema com a visualização, o trabalho pode ser encontrado na íntegra no
 repositório do [\textcolor{blue}{GitHub}](https://github.com/hugoadriao/segmentation).
+- Uma visualização renderizada pode ser acompanhada
+[\textcolor{blue}{aqui}](https://hugoadriao.github.io/segmentation/).
