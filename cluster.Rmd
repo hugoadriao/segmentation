@@ -119,7 +119,7 @@ correlação:
 
 # PCA
 3. Aplique o algoritmo de PCA nos dados normalizados (função scale). Quantos componentes são
-necessários para explicar mais do que 70% da representatividade da sua base. Mostre um screen plot
+necessários para explicar mais do que 70% da representatividade da sua base. Mostre um scree plot
 para justificar sua resposta. Qual a relação dos resultados encontrados com a questão anterior?
 
 ```{r pca_analysis}
@@ -730,8 +730,8 @@ enviesados pelas escalas das variáveis originais.
 
 # Evidências para a avaliação
 ## O aluno apresentou um print mostrando o ambiente RStudio?
-- Neste trabalho não estarei utilizando o RStudio pois não tenho familiariedade. Tenho muito mais
-familiariedade com o Visual Studio Code para o desenvolvimento de códigos. A seguir apresento o VS
+- Neste trabalho não estarei utilizando o RStudio pois não tenho familiaridade. Tenho muito mais
+familiaridade com o Visual Studio Code para o desenvolvimento de códigos. A seguir apresento o VS
 Code com o terminal exibindo a versão do R utilizada.
 
 ```{r vscode-screenshot, echo=FALSE, fig.align='center', out.width='500px', out.height='350px', fig.cap='VS Code com R'}
@@ -759,5 +759,5 @@ knitr::include_graphics("assets/tableau_public.png")
 ```
 
 # Considerações Finais
-- Caso o ocorra algum problema com a visualização, o trabalho pode ser encontrado na íntegra no
-repositório do GitHub.
+- Caso ocorra algum problema com a visualização, o trabalho pode ser encontrado na íntegra no
+repositório do [\textcolor{blue}{GitHub}](https://github.com/hugoadriao/segmentation).
